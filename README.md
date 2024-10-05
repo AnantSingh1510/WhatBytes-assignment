@@ -16,7 +16,7 @@ Follow the steps below to set up and run the project locally.
 
 ```bash
 git clone https://github.com/AnantSingh1510/WhatBytes-assignment.git
-cd WhatBytes-assignment
+cd WhatBytes-assignment/assignment
 ```
 
 ### 2.  Create and Activate a Virtual Environment
