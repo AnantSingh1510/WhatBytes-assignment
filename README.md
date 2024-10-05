@@ -5,7 +5,7 @@
 1. As mentioned in the assignment document, styling wasn't a criteria for the evaluation, therefore I have used BootStrap to make the development process a bit fast.
 
 ### Others
-1. As mentioned in the document, I have used Django's built in authentication system and forms as much as possible.
+1. As mentioned in the document, I have used Django's built in authentication system and used Django forms as much as possible.
 
 
 ## Installation
