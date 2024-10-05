@@ -1,0 +1,16 @@
+{% extends 'users/base.html' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center mt-5">
+    <div class="col-md-8 text-center">
+        <h2>Welcome, {{ username }}!</h2>
+        <div class="mt-4">
+            <a href="{% url 'profile' %}" class="btn btn-secondary">Profile</a>
+            <a href="{% url 'change_password' %}" class="btn btn-warning">Change Password</a>
+            <a href="{% url 'logout' %}" class="btn btn-danger">Logout</a>
+        </div>
+    </div>
+</div>
+{% endblock %}
